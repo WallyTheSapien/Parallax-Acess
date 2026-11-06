@@ -1,12 +1,5 @@
 {
-  "private": true,
   "dependencies": {
     "@vercel/edge": "^0.1.2"
   },
-  "scripts": {
-  "build": "ng build"
-  },
-  "devDependencies": {
-    "@angular/cli": "^18.x.x"
-  }
 }
