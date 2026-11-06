@@ -1,4 +1,4 @@
-import { next } from '@vercel/functions';
+import { next } from '@vercel/edges';
 
 export default function middleware(req) {
   return next({
